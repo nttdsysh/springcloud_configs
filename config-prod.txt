@@ -1,2 +1,0 @@
-info:
- This is a config file of prod, version: 1.
